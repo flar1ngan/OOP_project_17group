@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923915952617",
+    "project_id": "collaboraboard",
+    "storage_bucket": "collaboraboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923915952617:android:c6ed8a637bcba44be96b78",
+        "android_client_info": {
+          "package_name": "com.example.collaboraboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnyD0xhL1oXSLZuInqPdjSvQg3ohyGHqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
