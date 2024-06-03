@@ -26,7 +26,7 @@ CollaboraBoard ir uzdevumu pārvaldības lietotne Android ierīcēm, kas palīdz
 ### 3. Lejupielādējiet projektu no GitHub un atveriet to Android Studio
    * Klonējiet projekta repozitoriju no GitHub:
    ```
-   git clone https://github.com/yourusername/CollaboraBoard.git
+   git clone https://github.com/TimurCirganovich/OOP_project_17group.git
    ```
    * Atveriet Android Studio un klikšķiniet uz **Open an existing project**.
    * Navigējiet uz direktoriju, kurā klonējāt repozitoriju, un izvēlieties to.
