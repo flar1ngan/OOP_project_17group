@@ -12,16 +12,16 @@ CollaboraBoard ir uzdevumu pārvaldības lietotne Android ierīcēm, kas palīdz
 ### 2. Iestatiet emulatoru Android Studio vai pievienojiet fizisku ierīci        
    * **Emulatora Iestatīšana**:
 
-     1. Atveriet Android Studio un no rīkjoslas izvēlieties AVD Manager (Android Virtual Device Manager).
-     2. Klikšķiniet uz **Create Virtual Device**.
-     3. Izvēlieties ierīces modeli un klikšķiniet **Next**.
-     4. Izvēlieties sistēmas attēlu un klikšķiniet **Next**.
-     5. Pārbaudiet konfigurāciju un klikšķiniet **Finish**.
+     * Atveriet Android Studio un no rīkjoslas izvēlieties AVD Manager (Android Virtual Device Manager).
+     * Klikšķiniet uz **Create Virtual Device**.
+     * Izvēlieties ierīces modeli un klikšķiniet **Next**.
+     * Izvēlieties sistēmas attēlu un klikšķiniet **Next**.
+     * Pārbaudiet konfigurāciju un klikšķiniet **Finish**.
    * **Fiziskas Ierīces Pievienošana:**
 
-     1. Savienojiet savu Android ierīci ar datoru, izmantojot USB kabeli.
-     2. Pārliecinieties, ka jūsu ierīcē ir iespējota **USB Debugging** funkcija. Šo opciju var atrast jūsu ierīces **Developer Options** izvēlnē.
-     3. Android Studio automātiski atpazīs jūsu pievienoto ierīci.
+     * Savienojiet savu Android ierīci ar datoru, izmantojot USB kabeli.
+     * Pārliecinieties, ka jūsu ierīcē ir iespējota **USB Debugging** funkcija. Šo opciju var atrast jūsu ierīces **Developer Options** izvēlnē.
+     * Android Studio automātiski atpazīs jūsu pievienoto ierīci.
 
 ### 3. Lejupielādējiet projektu no GitHub un atveriet to Android Studio
    * Klonējiet projekta repozitoriju no GitHub:
@@ -41,3 +41,5 @@ CollaboraBoard ir uzdevumu pārvaldības lietotne Android ierīcēm, kas palīdz
 Jautājumu gadījumā vai lai iegūtu vairāk informācijas, lūdzu, sazinieties:
 
 **timurcirganovich@gmail.com**
+
+Šeit ir pieejams dokuments, kas apraksta projekta koncepciju un sistēmas dizaina aprakstu - [Projekta dokumentācija](https://docs.google.com/document/d/11a58YqcVdYW2eBee0syAwBimeX3okPjkqEZ_WxsyTHk/edit)
